@@ -24,11 +24,10 @@ The current public Icechunk store is:
 s3://us-west-2.opendata.source.coop/rsignell/liveocean/icechunk/liveocean-layers-icechunk-example
 ```
 
-The shared notebook is available at:
+The rendered notebooks are available at:
 
-```text
-https://notebooksharing.space/view/101d2cfdb46704a2995bfaabee2dd26fcfafe532e70aab8b7b89a8821286d623
-```
+- [LiveOcean_SourceCoop_explorer.ipynb](https://notebooksharing.space/view/101d2cfdb46704a2995bfaabee2dd26fcfafe532e70aab8b7b89a8821286d623)
+- [LiveOcean_Rolodex_BestEstimate.ipynb](https://notebooksharing.space/view/f95f9ef7084a1e93a44070446a83c5871fffbf220c6833d37ce0afe8e7b95685)
 
 ## Data Model Notes
 
